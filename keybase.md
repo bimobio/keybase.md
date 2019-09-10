@@ -2,9 +2,9 @@
 
 I hereby claim:
 
-  * I am kryzsiel on github.
-  * I am kowalskiego (https://keybase.io/kowalskiego) on keybase.
-  * I have a public key ASD4YkvmnXXD2aeq2M4G1oY4w8hRi1ThgaynFbm37pqa0Qo
+  * I am bimobio on github.
+  * I am bimobio (https://keybase.io/bimobio) on keybase.
+  * I have a public key ASCZLudrP4v-Rf049C2lTYk0SE4beKlsevADIssucHppNQo
 
 To claim this, I am signing this object:
 
@@ -12,42 +12,42 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "0120e8606f0f9c7841bce080019040c7eb054f126b1e8ffaa37ad338ef969a2fe32a0a",
+      "eldest_kid": "0120992ee76b3f8bfe45fd38f42da54d8934484e1b78a96c7af00322cb2e707a69350a",
       "host": "keybase.io",
-      "kid": "0120f8624be69d75c3d9a7aad8ce06d68638c3c8518b54e181aca715b9b7ee9a9ad10a",
-      "uid": "104d2559ba716007be6d05891486f619",
-      "username": "kowalskiego"
+      "kid": "0120992ee76b3f8bfe45fd38f42da54d8934484e1b78a96c7af00322cb2e707a69350a",
+      "uid": "a0bd2c91573ac889d4453f40da5fe119",
+      "username": "bimobio"
     },
     "merkle_root": {
-      "ctime": 1568100769,
-      "hash": "b3491f362446375c69a94e4c72260363e6578b271bc9d7a3e2007cee5fe1fc6a1cbcfc3f22635c98117489a55e3b6783c93105a5ca2e00cf5cb79d10ac56207e",
-      "hash_meta": "b236e947a1963ffca3454325c676ba7ded79c28872ec162be0b630e1307b2e4c",
-      "seqno": 6341022
+      "ctime": 1568142293,
+      "hash": "bcd6ce2b43294dee05feb45ee85963e5281cd01020ababd89a2680d891ae5b430ae2a79b43b4afdcbfcacc86d17f354ddf88a7c494917f26a7f1e339d5619b21",
+      "hash_meta": "be2ac1fee5a6624246b89144f9535e3a0ac2cbc3ad693ae2911e461dcde1f58d",
+      "seqno": 6498006
     },
     "service": {
-      "entropy": "rsBEY0ufhu+xhjOcrKy2+PV9",
+      "entropy": "rmJJQJAsdkJWnU6p0pR5vP7L",
       "name": "github",
-      "username": "kryzsiel"
+      "username": "bimobio"
     },
     "type": "web_service_binding",
     "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "4.4.1"
+    "version": "4.4.0"
   },
-  "ctime": 1568100773,
+  "ctime": 1568142301,
   "expire_in": 504576000,
-  "prev": "920c66549536c8f1776a0b31a4287ddb2432bed5f5b8922221494e8cf5fe0028",
-  "seqno": 23,
+  "prev": "ea1188ce0699aee4a125ca25aa972c1a587f1a4d0627bf25d946b56e1d6b932f",
+  "seqno": 7,
   "tag": "signature"
 }
 ```
 
-with the key [ASD4YkvmnXXD2aeq2M4G1oY4w8hRi1ThgaynFbm37pqa0Qo](https://keybase.io/kowalskiego), yielding the signature:
+with the key [ASCZLudrP4v-Rf049C2lTYk0SE4beKlsevADIssucHppNQo](https://keybase.io/bimobio), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+GJL5p11w9mnqtjOBtaGOMPIUYtU4YGspxW5t+6amtEKp3BheWxvYWTESpcCF8QgkgxmVJU2yPF3agsxpCh92yQyvtX1uJIiIUlOjPX+ACjEIPEYNVQ4A41ltRYenHKWFH80KJjMqLo/GSKOo2GC2aAtAgHCo3NpZ8RAHNwKS2OoaJKmq1azZlPwCDzntrqBycLjL8KkjstLpyUzIQdiaCxqT9s//ncbm/If95qqJ4fxoh22B84VjMnBAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFhAOONSmt7cUzD1rFkJa34jrKipkiDjoc6AC5VnovCoo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmS7naz+L/kX9OPQtpU2JNEhOG3ipbHrwAyLLLnB6aTUKp3BheWxvYWTESpcCB8Qg6hGIzgaZruShJcolqpcsGlh/Gk0GJ78l2Ua1bh1rky/EIKXwZOazDw3vQZmFFqjpwzyp6m4eiw6zGyZrCk4kTTNvAgHCo3NpZ8RA/NnxUchqEBma3ovYUkltHTJ0DyLx/9hL6KngQR6yOPH/pSEoBhp7uvxS5NkAO6RzpqmIsW6XMAQKg6SnUGGbBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICgBrZlondWx5RxCaK7QijnUFvjuqBrzqHRGbJ1yJ71lo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
@@ -55,7 +55,7 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 ### My publicly-auditable identity:
 
-https://keybase.io/kowalskiego
+https://keybase.io/bimobio
 
 ### From the command line:
 
@@ -63,5 +63,5 @@ Consider the [keybase command line program](https://keybase.io/download).
 
 ```bash
 # look me up
-keybase id kowalskiego
+keybase id bimobio
 ```
